@@ -41,6 +41,8 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 
