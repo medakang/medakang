@@ -9,14 +9,8 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++;
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 👨🏽‍💻 
+- 📫 How to reach me: xzhengkang@163.com;
 
 **Languages and Tools:**
 
@@ -41,3 +35,17 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
 </a>
+
+<br/>
+---
+😉 **最近计划:**
+<details style="cursor: pointer;">
+  <summary>2016年</summary>
+<div style="width: 98%; margin: 0 auto">
+<ul>
+<li>7月入坑某华。</li>
+<li>10月参加成人高考(大专)。</li>
+<li>11月开始自学C语言。</li>
+</ul>
+</div>
+</details>
