@@ -12,6 +12,12 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 - 👨🏽‍💻 
 - 📫 How to reach me: xzhengkang@163.com;
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://github.com/medakang/medakang/blob/main/image/javascript.png"></code>
@@ -37,6 +43,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 </a>
 
 <br/>
+
 ---
 😉 **最近计划:**
 <details style="cursor: pointer;">
