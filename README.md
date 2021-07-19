@@ -5,7 +5,7 @@
 
 Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/medakang/medakang/blob/main/image/code.gif" />
+  <img align="right" alt="GIF" src="https://github.com/medakang/medakang/blob/main/image/code.gif" width="430" height="100%" />
 
 **Talking about Personal Stuffs:**
 
