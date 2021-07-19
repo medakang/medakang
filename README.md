@@ -1,6 +1,6 @@
 ## 雪烟火 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/medakang/medakang/blob/main/image/code.gif" />
+<img align="right" alt="GIF" src="https://github.com/medakang/medakang/blob/main/image/code.gif" />
 
 ### I'm kangxiaozheng
 
