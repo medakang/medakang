@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [kang!]()
+### Hey 👋🏽, I'm [kang!](https://github.com/medakang)
 
 <br />
 <br />
