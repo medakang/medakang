@@ -12,6 +12,11 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
   <img align="right" alt="GIF" src="https://github.com/medakang/medakang/blob/main/image/code.gif" width="430" height="100%" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning GoLang;
@@ -100,8 +105,6 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
 
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
