@@ -34,14 +34,9 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=medakang&show_icons=true&hide_border=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=medakang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
 
 ⭐️[My open source project](https://github.com/medakang)
-
-
-<a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=medakang&repo=A-POP" />
-</a>
 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
