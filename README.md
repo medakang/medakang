@@ -1,4 +1,9 @@
 ### Hey 👋🏽, I'm [kang!](https://github.com/medakang)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/medakang/count.svg" />
+</p>
+
 
 <br />
 <br />
@@ -9,7 +14,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 
+- 🌱 I’m currently learning GoLang;
 - 📫 How to reach me: xzhengkang@163.com;
 
 <br/>
@@ -38,6 +43,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 ⭐️[My open source project](https://github.com/medakang)
 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
@@ -53,9 +59,9 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 ---
 😉 **最近计划:**
 <details style="cursor: pointer;">
-  <summary>2016年</summary>
+  <summary>2021年</summary>
 <div style="width: 98%; margin: 0 auto">
--- a
--- b
+- a
+- b
 </div>
 </details>
