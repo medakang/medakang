@@ -35,7 +35,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=medakang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⭐️[My open source project](https://github.com/medakang)
@@ -55,10 +55,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 <details style="cursor: pointer;">
   <summary>2016年</summary>
 <div style="width: 98%; margin: 0 auto">
-<ul>
-<li>7月入坑某华。</li>
-<li>10月参加成人高考(大专)。</li>
-<li>11月开始自学C语言。</li>
-</ul>
+-- a
+-- b
 </div>
 </details>
