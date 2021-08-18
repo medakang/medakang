@@ -10,7 +10,7 @@
 
 Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/medakang/medakang/blob/main/image/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://github.com/xiaozhengkang/xiaozhengkang/blob/main/image/code.gif" width="430" height="100%" />
 
 <br/>
 <br/>
@@ -98,7 +98,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 ⭐️[My open source project](https://github.com/medakang)
 
 <a href="https://github.com/medakang">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=medakang&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaozhengkang&repo=IIITDMJ-GPA" />
 </a>
 
 
