@@ -87,8 +87,8 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China, Beside's programming, I en
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=xiaozhengkang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhengkang&layout=compact)](https://github.com/xiaozhengkang)
+![Abhishek's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaozhengkang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xiaozhengkang&layout=compact)](https://github.com/xiaozhengkang)
 
 <br/>
 <br/>
@@ -96,7 +96,7 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China, Beside's programming, I en
 ⭐️[My open source project](https://github.com/xiaozhengkang)
 
 <a href="https://github.com/xiaozhengkang">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaozhengkang&repo=IIITDMJ-GPA" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=xiaozhengkang&repo=IIITDMJ-GPA" />
 </a>
 
 <br/>
