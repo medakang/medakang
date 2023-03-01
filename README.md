@@ -1,14 +1,14 @@
-### Hey 👋🏽, I'm [kang!](https://github.com/medakang)
-<p align="center"> 
+### Hey 👋🏽, I'm [kang!](https://github.com/xiaozhengkang)
+
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/medakang/count.svg" />
+  <img src="https://profile-counter.glitch.me/xiaozhengkang/count.svg" />
 </p>
 
-
 <br />
 <br />
 
-Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I enjoy eating food and traveling.
+Hi, I'm kang, a Full Stack Developer 🚀 from China, Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/xiaozhengkang/xiaozhengkang/blob/main/image/code.gif" width="430" height="100%" />
 
@@ -87,38 +87,32 @@ Hi, I'm kang, a Full Stack Developer 🚀 from China,  Beside's programming, I e
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 
-
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=medakang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medakang&layout=compact)](https://github.com/medakang)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=xiaozhengkang&show_icons=true&hide_border=true&count_private=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhengkang&layout=compact)](https://github.com/xiaozhengkang)
 
 <br/>
 <br/>
 
-⭐️[My open source project](https://github.com/medakang)
+⭐️[My open source project](https://github.com/xiaozhengkang)
 
-<a href="https://github.com/medakang">
+<a href="https://github.com/xiaozhengkang">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaozhengkang&repo=IIITDMJ-GPA" />
 </a>
 
-
-
-
-
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-
 
 ---
+
 😉 **最近计划:**
+
 <details style="cursor: pointer;">
-  <summary>2021年</summary>
+  <summary>2023年</summary>
 <div style="width: 98%; margin: 0 auto">
-- a
-- b
+- 开启新项目模板
 </div>
 </details>
